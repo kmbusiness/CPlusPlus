@@ -1,6 +1,5 @@
 /*
         John Nguyen
-        Assignment 9 - Overload Constructor and Classes
  */
 
 #include <iostream>
