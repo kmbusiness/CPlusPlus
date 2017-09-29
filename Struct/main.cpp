@@ -1,7 +1,5 @@
 /*
     John Nguyen
-    CECS 282
-    Assignment #7 - Struct
 */
 
 #include <iostream>
