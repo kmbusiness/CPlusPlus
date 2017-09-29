@@ -1,8 +1,5 @@
 /*
 	John Nguyen
-	Assignment # 3 - Warship
-	CECS 282
-	2/17/2017
  */
 
 #include <iostream>
