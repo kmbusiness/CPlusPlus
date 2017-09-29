@@ -1,7 +1,5 @@
 /*
     John Nguyen
-    In Class Assignment 11: Polymorphism
-    CECS 282
  */
 
 
