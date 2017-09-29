@@ -1,7 +1,5 @@
 /*
         John Nguyen
-        Assignment #8 - Classes
-        4/7/2017
  */
 
 
